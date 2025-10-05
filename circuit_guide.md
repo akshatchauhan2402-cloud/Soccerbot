@@ -17,7 +17,10 @@
   * ##### Connect Motor A+ to MD10C OUT+
   * ##### Connect Motor A- to MD10C OUT-
 
- ### **Step 5:** Control Wiring 
+### **Step 5:** Control Wiring 
  * #### Connect MD10C DIR pins to ESP32_D14,D27,D26,D25
  * #### Connect MD10C PWM pins to ESP32_D32,D33,D12,D13
 
+#
+
+### Link for the Circuit: https://app.cirkitdesigner.com/project/16a92dad-a04f-4327-a22f-d24f86f62b92
